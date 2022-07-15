@@ -1,3 +1,4 @@
 *.xml
 *.dat.gz
 .ipynb_checkpoints/
+.Rproj.user
